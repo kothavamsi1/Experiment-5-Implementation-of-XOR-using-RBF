@@ -131,7 +131,6 @@ Predictions:
 
     
 ## RESULT:
-
 Thus, Implementation of XOR using RBF is implemented succesfully.
 
 
